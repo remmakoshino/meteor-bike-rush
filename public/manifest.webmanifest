@@ -1,0 +1,9 @@
+{
+  "name": "流星バーストライダーズ",
+  "short_name": "流バス",
+  "start_url": "/meteor-bike-rush/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": []
+}
